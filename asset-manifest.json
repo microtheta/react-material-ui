@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-material-ui/static/js/main.ef5896e8.chunk.js",
+    "main.js.map": "/react-material-ui/static/js/main.ef5896e8.chunk.js.map",
+    "runtime~main.js": "/react-material-ui/static/js/runtime~main.d1d13c8a.js",
+    "runtime~main.js.map": "/react-material-ui/static/js/runtime~main.d1d13c8a.js.map",
+    "static/js/2.6ec234c0.chunk.js": "/react-material-ui/static/js/2.6ec234c0.chunk.js",
+    "static/js/2.6ec234c0.chunk.js.map": "/react-material-ui/static/js/2.6ec234c0.chunk.js.map",
+    "index.html": "/react-material-ui/index.html",
+    "precache-manifest.5c3095847d8501c73b6c4079c484d61e.js": "/react-material-ui/precache-manifest.5c3095847d8501c73b6c4079c484d61e.js",
+    "service-worker.js": "/react-material-ui/service-worker.js",
+    "static/media/card-1.jpg": "/react-material-ui/static/media/card-1.26e547df.jpg",
+    "static/media/card-2.jpg": "/react-material-ui/static/media/card-2.d156a77b.jpg",
+    "static/media/card-3.jpg": "/react-material-ui/static/media/card-3.a081cbdb.jpg",
+    "static/media/header_back-1.jpg": "/react-material-ui/static/media/header_back-1.fc2a7fa8.jpg"
+  }
+}
